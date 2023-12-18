@@ -1,3 +1,4 @@
 # Warsztat BestShop
 
-[DEMO LINK](https://github.com/joanna-konopacka/BestShop_website/)
+
+[DEMO LINK](https://joanna-konopacka.github.io/BestShop_website/)
